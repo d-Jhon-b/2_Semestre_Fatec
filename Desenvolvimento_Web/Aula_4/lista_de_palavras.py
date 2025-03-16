@@ -1,0 +1,1 @@
+palavras = ["cachorro", "gato", "papagaio", "cavalo", "girafa", "elefante", "leão", "tigre", "golfinho", "baleia"]
